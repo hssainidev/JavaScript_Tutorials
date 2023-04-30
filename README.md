@@ -1,2 +1,2 @@
 # Angular_Tutorials
-Just learning mre about Angular
+Just learning more about Angular
